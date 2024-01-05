@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lab2
+namespace Lab3
 {
     class Program
     {
@@ -13,6 +13,8 @@ namespace Lab2
             Console.WriteLine("when a first symbol on line is ‘@’ – enter operation");
             Console.WriteLine("operation is one of ‘+’, ‘-‘, ‘/’, ‘*’ or");
             Console.WriteLine("‘#’ followed with number of evaluation step");
+            Console.WriteLine("‘s’ save to file (sj JSON sx XML ss SQLlite)");
+            Console.WriteLine("‘l’ load from file (lj JSON lx XML ls SQLlite)");
             Console.WriteLine("‘q’ to exit");
             while (true)
             {

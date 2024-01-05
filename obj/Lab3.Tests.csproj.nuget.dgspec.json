@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Вахтанг\\Downloads\\Telegram Desktop\\Lab3Тест\\Lab3\\Lab3.Tests\\Lab3.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Вахтанг\\Downloads\\Telegram Desktop\\Lab3Тест\\Lab3\\Lab3.Tests\\Lab3.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Вахтанг\\Downloads\\Telegram Desktop\\Lab3Тест\\Lab3\\Lab3.Tests\\Lab3.Tests.csproj",
+        "projectName": "Lab3.Tests",
+        "projectPath": "C:\\Users\\Вахтанг\\Downloads\\Telegram Desktop\\Lab3Тест\\Lab3\\Lab3.Tests\\Lab3.Tests.csproj",
+        "packagesPath": "C:\\Users\\Вахтанг\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Вахтанг\\Downloads\\Telegram Desktop\\Lab3Тест\\Lab3\\Lab3.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Вахтанг\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Вахтанг\\Downloads\\Telegram Desktop\\Lab3Тест\\Lab3\\Lab3\\Lab3.csproj": {
+                "projectPath": "C:\\Users\\Вахтанг\\Downloads\\Telegram Desktop\\Lab3Тест\\Lab3\\Lab3\\Lab3.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.118, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.6.4, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Вахтанг\\Downloads\\Telegram Desktop\\Lab3Тест\\Lab3\\Lab3\\Lab3.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Вахтанг\\Downloads\\Telegram Desktop\\Lab3Тест\\Lab3\\Lab3\\Lab3.csproj",
+        "projectName": "Lab3",
+        "projectPath": "C:\\Users\\Вахтанг\\Downloads\\Telegram Desktop\\Lab3Тест\\Lab3\\Lab3\\Lab3.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
